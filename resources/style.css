@@ -28,3 +28,9 @@
         font-size: 16px;
         color: aquamarine;
     }
+
+    .footer--copyrightgit {
+        font-size: 21px;
+        color: grey;
+        text-align: right;
+    }  
